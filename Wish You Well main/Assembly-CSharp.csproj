@@ -48,6 +48,8 @@
      <Compile Include="Assets\Coin_saved.cs" />
      <Compile Include="Assets\Follow_camera.cs" />
      <Compile Include="Assets\Game_manager.cs" />
+     <Compile Include="Assets\Mole stuff\Detection.cs" />
+     <Compile Include="Assets\Mole stuff\Mole.cs" />
      <Compile Include="Assets\NewBehaviourScript.cs" />
      <Compile Include="Assets\Player.cs" />
      <Compile Include="Assets\Scripts\Fly.cs" />
