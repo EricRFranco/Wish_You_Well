@@ -1,4 +1,4 @@
-Initialize engine version: 5.4.0f3 (a6d8d714de6f)
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
 GfxDevice: creating device client; threaded=1
 Direct3D:
     Version:  Direct3D 11.0 [level 11.0]
@@ -14,9 +14,294 @@ Platform assembly: C:\Users\gabri\Documents\Wish_You_Well\Wish You Well main\Wis
 Loading C:\Users\gabri\Documents\Wish_You_Well\Wish You Well main\Wish You Well_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
 Platform assembly: C:\Users\gabri\Documents\Wish_You_Well\Wish You Well main\Wish You Well_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
 Loading C:\Users\gabri\Documents\Wish_You_Well\Wish You Well main\Wish You Well_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.051 seconds
+- Completed reload, in  0.133 seconds
 Platform assembly: C:\Users\gabri\Documents\Wish_You_Well\Wish You Well main\Wish You Well_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\gabri\Documents\Wish_You_Well\Wish You Well main\Wish You Well_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.690568 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.296296 ms
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 608.
+Total: 0.706370 ms (FindLiveObjects: 0.053728 ms CreateObjectMapping: 0.015407 ms MarkObjects: 0.086123 ms  DeleteObjects: 0.550716 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.954469 ms
+
+Unloading 74 unused Assets to reduce memory usage. Loaded Objects now: 170.
+Total: 0.422716 ms (FindLiveObjects: 0.017777 ms CreateObjectMapping: 0.013037 ms MarkObjects: 0.074271 ms  DeleteObjects: 0.317234 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.246913 ms
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 608.
+Total: 0.196740 ms (FindLiveObjects: 0.051753 ms CreateObjectMapping: 0.017382 ms MarkObjects: 0.116938 ms  DeleteObjects: 0.010271 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.765234 ms
+
+Unloading 74 unused Assets to reduce memory usage. Loaded Objects now: 170.
+Total: 0.278913 ms (FindLiveObjects: 0.010666 ms CreateObjectMapping: 0.009086 ms MarkObjects: 0.077037 ms  DeleteObjects: 0.181728 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.244543 ms
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 608.
+Total: 0.140246 ms (FindLiveObjects: 0.024888 ms CreateObjectMapping: 0.013037 ms MarkObjects: 0.094024 ms  DeleteObjects: 0.007901 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.805136 ms
+
+Unloading 74 unused Assets to reduce memory usage. Loaded Objects now: 170.
+Total: 0.311703 ms (FindLiveObjects: 0.028049 ms CreateObjectMapping: 0.027654 ms MarkObjects: 0.080592 ms  DeleteObjects: 0.174617 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.259950 ms
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 608.
+Total: 0.148543 ms (FindLiveObjects: 0.020148 ms CreateObjectMapping: 0.031604 ms MarkObjects: 0.088888 ms  DeleteObjects: 0.007901 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.849778 ms
+
+Unloading 74 unused Assets to reduce memory usage. Loaded Objects now: 170.
+Total: 0.291950 ms (FindLiveObjects: 0.007111 ms CreateObjectMapping: 0.027259 ms MarkObjects: 0.073876 ms  DeleteObjects: 0.183308 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.318024 ms
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 608.
+Total: 0.152493 ms (FindLiveObjects: 0.036345 ms CreateObjectMapping: 0.013432 ms MarkObjects: 0.093629 ms  DeleteObjects: 0.008691 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.883358 ms
+
+Unloading 74 unused Assets to reduce memory usage. Loaded Objects now: 170.
+Total: 0.278518 ms (FindLiveObjects: 0.011456 ms CreateObjectMapping: 0.027654 ms MarkObjects: 0.074666 ms  DeleteObjects: 0.163950 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.289185 ms
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 608.
+Total: 0.239407 ms (FindLiveObjects: 0.071506 ms CreateObjectMapping: 0.034370 ms MarkObjects: 0.123654 ms  DeleteObjects: 0.009481 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.764444 ms
+
+Unloading 74 unused Assets to reduce memory usage. Loaded Objects now: 170.
+Total: 0.744296 ms (FindLiveObjects: 0.024493 ms CreateObjectMapping: 0.029234 ms MarkObjects: 0.106666 ms  DeleteObjects: 0.582321 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.256395 ms
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 608.
+Total: 0.198321 ms (FindLiveObjects: 0.059259 ms CreateObjectMapping: 0.050172 ms MarkObjects: 0.080197 ms  DeleteObjects: 0.008296 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.790913 ms
+
+Unloading 74 unused Assets to reduce memory usage. Loaded Objects now: 158.
+Total: 0.271407 ms (FindLiveObjects: 0.027259 ms CreateObjectMapping: 0.009086 ms MarkObjects: 0.049777 ms  DeleteObjects: 0.184888 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 644c -> priority: 1 
+  Thread -> id: 4724 -> priority: 1 

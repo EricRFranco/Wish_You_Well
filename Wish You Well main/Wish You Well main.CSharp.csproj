@@ -73,6 +73,7 @@
     <Compile Include="Assets\Scripts\Fly.cs" />
     <Compile Include="Assets\Scripts\Worm.cs" />
     <Compile Include="Assets\Start_Game.cs" />
+    <Compile Include="Assets\WinCondition.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2015\UnityVS.CSharp.targets" />
 </Project>
